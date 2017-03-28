@@ -491,9 +491,13 @@ body {
 }
 	
 @media (max-width: 767px) {
+	#slide-3 {
+		width: 100%;
+		height: 400px;
+	}
 	#slide-3 .col-12 {
 		width: 100%;
-		height: 550px;
+		height: 400px;
 	}
 }
 

@@ -8,22 +8,17 @@
 	<meta name="description" content="AtomicAries" />	    
 	<meta name="keywords" content="themes, bootstrap, free, templates, bootstrap 3, freebie,">
 	<meta property="og:title" content="">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
 	<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
 	<link rel="stylesheet" href="fancybox/jquery.fancybox-v=2.1.5.css" type="text/css" media="screen">
-    	<link rel="stylesheet" href="css/font-awesome.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/font-awesome.min.css" rel="stylesheet">
 	
 	<link rel="stylesheet" type="text/css" href="css/style.css">	
-	<link href='http://fonts.googleapis.com/css?family=Titillium+Web:400,600,300,200&subset=latin,latin-ext' rel='stylesheet' type='text/css'>	
-	<link rel="prefetch" href="images/zoom.png"i
-    	<link href="2/thumbnail-slider.css" rel="stylesheet" type="text/css" />
-    	<script src="2/thumbnail-slider.js" type="text/javascript"></script>
-	<!-- Start WOWSlider.com HEAD section -->
-	<link rel="stylesheet" type="text/css" href="engine1/style.css" />
-	<script type="text/javascript" src="engine1/jquery.js"></script>
-	<!-- End WOWSlider.com HEAD section -->
-</head>
+	
+	<link href='http://fonts.googleapis.com/css?family=Titillium+Web:400,600,300,200&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+	
+	
+	<link rel="prefetch" href="images/zoom.png">
 <body>
   <div class="container background-white">
      <div class="row margin-vert-30">
@@ -67,45 +62,6 @@
 	<!-- === MAIN Background === -->
 	<div class="slide story" id="slide-1" data-slide="1">
 		<div class="container">
-    <div style="padding:120px 0;">
-        <div id="thumbnail-slider">
-            <div class="inner">
-                <ul>
-                    <li>
-                        <a class="thumb" href="http://2.bp.blogspot.com/-H6MAoWN-UIE/TuRwLbHRSWI/AAAAAAAABBk/89iiEulVsyg/s400/Free%2BNature%2BPhoto.jpg" />
-                    </li>
-                    <li>
-                        <a class="thumb" href="http://2.bp.blogspot.com/-H6MAoWN-UIE/TuRwLbHRSWI/AAAAAAAABBk/89iiEulVsyg/s400/Free%2BNature%2BPhoto.jpg"></a>
-                    </li>
-                    <li>
-                        <a class="thumb" href="http://2.bp.blogspot.com/-H6MAoWN-UIE/TuRwLbHRSWI/AAAAAAAABBk/89iiEulVsyg/s400/Free%2BNature%2BPhoto.jpg"></a>
-                    </li>
-                    <li>
-                        <a class="thumb" href="http://2.bp.blogspot.com/-H6MAoWN-UIE/TuRwLbHRSWI/AAAAAAAABBk/89iiEulVsyg/s400/Free%2BNature%2BPhoto.jpg"></a>
-                    </li>
-                    <li>
-                        <a class="thumb" href="http://2.bp.blogspot.com/-H6MAoWN-UIE/TuRwLbHRSWI/AAAAAAAABBk/89iiEulVsyg/s400/Free%2BNature%2BPhoto.jpg"></a>
-                    </li>
-                    <li>
-                        <a class="thumb" href="http://2.bp.blogspot.com/-H6MAoWN-UIE/TuRwLbHRSWI/AAAAAAAABBk/89iiEulVsyg/s400/Free%2BNature%2BPhoto.jpg"></a>
-                    </li>
-                    <li>
-                        <a class="thumb" href="http://2.bp.blogspot.com/-H6MAoWN-UIE/TuRwLbHRSWI/AAAAAAAABBk/89iiEulVsyg/s400/Free%2BNature%2BPhoto.jpg"></a>
-                    </li>
-                    <li>
-                        <a class="thumb" href="http://2.bp.blogspot.com/-H6MAoWN-UIE/TuRwLbHRSWI/AAAAAAAABBk/89iiEulVsyg/s400/Free%2BNature%2BPhoto.jpg"></a>
-                    </li>
-                    <li>
-                        <a class="thumb" href="http://2.bp.blogspot.com/-H6MAoWN-UIE/TuRwLbHRSWI/AAAAAAAABBk/89iiEulVsyg/s400/Free%2BNature%2BPhoto.jpg"></a>
-                    </li>
-                    <li>
-                        <a class="thumb" href="http://2.bp.blogspot.com/-H6MAoWN-UIE/TuRwLbHRSWI/AAAAAAAABBk/89iiEulVsyg/s400/Free%2BNature%2BPhoto.jpg"></a>
-                    </li>
-                </ul>
-            </div>
-        </div>
-    </div>
- 	
 			<div id="home-row-1" class="row clearfix">
 				<div class="col-12">
 			<h1 <span class="font-thin">ARISTIDIS</span> <span class="font-semibold">(ARIES)</span> <span class="font-thin">LOUMIS</span></h1>
@@ -176,6 +132,30 @@
 
 <!-- === 3  Portfolio -->
 <div class="slide story" id="slide-3" data-slide="3">
+<div id="container"> 
+    <!-- Each image is 350px by 233px -->
+    <div class="photobanner">
+    	<img class="first" src="images/portfolio/kane&able.jpg" alt="" class=">
+    	<img src="images/portfolio/Victor_Vapes.png" alt="" />
+    	<img src="images/portfolio/V_Day.png" alt="" />
+    	<img src="images/portfolio/save_nuclear.jpg" alt="" />
+    	<img src="images/portfolio/nuclear_winter.jpg" alt="" />
+    </div>
+</div>
+	<div class="row">
+		<div class="col-12 col-sm-6 col-lg-2"><a data-fancybox-group="portfolio" class="fancybox" href="images/portfolio/Victor_Vapes.png"><img class="thumb" src="images/portfolio/Victor_Vapes.png" alt=""></a></div>
+		<div class="col-12 col-sm-6 col-lg-2"><a data-fancybox-group="portfolio" class="fancybox" href="images/portfolio/V_Day.png"><img class="thumb" src="images/portfolio/V_Day.png" alt=""></a></div>
+		<div class="col-12 col-sm-6 col-lg-2"><a data-fancybox-group="portfolio" class="fancybox" href="images/portfolio/Straight_outta_compton.png"><img class="thumb" src="images/portfolio/Straight_outta_compton.png" alt=""></a></div>
+		<div class="col-12 col-sm-6 col-lg-2"><a data-fancybox-group="portfolio" class="fancybox" href="images/portfolio/save_nuclear.jpg"><img class="thumb" src="images/portfolio/save_nuclear.jpg" alt=""></a></div>
+		<div class="col-12 col-sm-6 col-lg-2"><a data-fancybox-group="portfolio" class="fancybox" href="images/portfolio/nuclear_winter.jpg"><img class="thumb" src="images/portfolio/nuclear_winter.jpg" alt=""></a></div>
+		<div class="col-12 col-sm-6 col-lg-2"><a data-fancybox-group="portfolio" class="fancybox" href="images/portfolio/Grainger_Bob.jpg"><img class="thumb" src="images/portfolio/Grainger_Bob.png" alt=""></a></div>
+		<div class="col-12 col-sm-6 col-lg-2"><a data-fancybox-group="portfolio" class="fancybox" href="images/portfolio/flint.jpg"><img class="thumb" src="images/portfolio/flint.jpg" alt=""></a></div>
+		<div class="col-12 col-sm-6 col-lg-2"><a data-fancybox-group="portfolio" class="fancybox" href="images/portfolio/kane&able"><img class="thumb" src="images/portfolio/kane&able.jpg" alt=""></a></div>
+		<div class="col-12 col-sm-6 col-lg-2"><a data-fancybox-group="portfolio" class="fancybox" href="images/portfolio/lab-selfie.jpg"><img class="thumb" src="images/portfolio/lab_selfie.jpg" alt=""></a></div>
+		<div class="col-12 col-sm-6 col-lg-2"><a data-fancybox-group="portfolio" class="fancybox" href="images/portfolio/nuclear_frat.jpg"><img class="thumb" src="images/portfolio/nuclear_frat.jpg" alt=""></a></div>
+		<div class="col-12 col-sm-6 col-lg-2"><a data-fancybox-group="portfolio" class="fancybox" href="images/portfolio/flint.jpg"><img class="thumb" src="images/portfolio/flint.jpg" alt=""></a></div>
+		<div class="col-12 col-sm-6 col-lg-2"><a data-fancybox-group="portfolio" class="fancybox" href="images/portfolio/p12-large.jpg"><img class="thumb" src="images/portfolio/p12-small.jpg" alt=""></a></div>
+	</div><!-- /row -->
 </div><!-- /slide3 -->
 
 <!-- === Slide 4 - Process === -->
@@ -203,8 +183,7 @@
 				<p><i class="icon icon-cog"></i></p>
 				<h2 class="font-thin">Project<br><span class="font-semibold">discovery</span></h2>
 				<h4 class="font-thin">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</h4>
-			</div>
-	<!-- /col12 -->
+			</div><!-- /col12 -->
 			<div class="col-12 col-sm-2">
 				<p><i class="icon icon-cloud"></i></p>
 				<h2 class="font-thin">Storming<br><span class="font-semibold">our brains</span></h2>

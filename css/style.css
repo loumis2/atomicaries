@@ -1,10 +1,10 @@
 /*
- * Author: Carlos Alvarez
- * URL: http://alvarez.is
+ * Author: Aries Loumis
+ * URL: atomicaries.com
  *
- * Project Name: Munter - Free Bootstrap 3 Theme
+ * Project Name: Atomic Aries Website
  * Version: 1.0
- * URL: http://blacktie.co
+ * URL: loumis2.github.io
  */
  
 .font-thin {
@@ -216,7 +216,7 @@ body {
 }
 
 #slide-1 {
-	background-image: url('../images/bg1.jpg');
+	background-image: url('../images/background.jpg');
 	color: #ffffff;
     -webkit-background-size: 100%;
     -moz-background-size: 100%;
@@ -232,21 +232,47 @@ body {
 	background-position: center center;
 }
 
+#slide-1 .floating-job {
+    float: center;
+    width: 20%;
+    height: 200px;
+    margin: 10px;
+    border: 3px solid #00;  
+    padding-bottom: 90px;
+	}
+
 #slide-1 h1 {
 	padding-top: 130px;
 }
 
 @media (max-width: 991px) {
 	#slide-1 {
-		background-position: -70% 0, 170% 0;
+		background-image: url('../images/background.jpg');
+	}
+	#slide-1 .floating-job {
+    float: center;
+    width: 20%;
+    margin: 10px;
+    border: 3px solid #00;  
+    padding-bottom: 90px;
 	}
 }
 
 @media (max-width: 767px) {
 	#slide-1 {
-		background-image: none;
+		background-image: url('../images/background.jpg');
 	}
+	#slide-1 .floating-job {
+    float: center;
+    width: 20%;
+    margin: 10px;
+    border: 3px solid #00;  
+    padding-bottom: 90px;
+	}
+
+
 }
+
 
 	#home-row-1,
 	#home-row-2 {
@@ -403,7 +429,17 @@ body {
 		height: 100%;
 		margin: 0 auto;
 		width: 100%;
+		max-width: 175px;
+		max-height: 175px;
 	}
+
+.img-circle {
+    border-radius: 50%;
+    float: left;
+}
+
+.img-responsive {
+}
 	
 @media (max-width: 991px) {
 	#slide-3 {
@@ -454,9 +490,36 @@ body {
 	color: #e4e6e5;
 	padding-top: 90px;
 }
+#wrapper{
+    width: 100%;
+}
 
+#slide-5 .img-circle {
+    border-radius: 50%;
+    width: 33%;
+    float: left;
+}
+
+.floating-job-image {
+    float: left;
+    width: 45%;
+    height: 200px;
+    margin: 10px;
+    border: 3px solid #00;  
+    padding-bottom: 90px;
+}
+.floating-job-description {
+    float: left;
+    width: 60%;
+    height: 75px;
+    margin: 10px;
+    border: 3px solid #ffffff;  
+}
+.float-left{
+	float: left;
+}
 #slide-6 {
-	background-color: #2f2f2f;
+	background-color: #000000;
 	color: #e4e6e5;
 	padding-bottom: 350px;
 	padding-top: 90px;

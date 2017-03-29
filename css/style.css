@@ -377,7 +377,11 @@ body {
 	}
 	
 	.content-row {
-		padding-top: 45px;
+		padding-left: 50px;
+		margin: 50px;
+	}
+	.left{
+		padding-left: 140px;
 	}
 	
 	.content-row i,
